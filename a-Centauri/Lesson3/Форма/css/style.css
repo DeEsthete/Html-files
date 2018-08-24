@@ -1,0 +1,30 @@
+.formStyle
+{
+}
+.fieldStyle
+{
+  font-family: 'Pacifico', cursive;
+  border: 3px solid Red;
+  display: inline-block;
+
+}
+.legendStyle
+{
+  font-size: 24px;
+  color: Red;
+  border: 5px dotted Red;
+}
+.imageTop
+{
+  margin-top: 40px;
+  width: 100px;
+}
+.buttonStyle
+{
+  border-radius: 5px 5px 5px 5px;
+}
+body
+{
+  text-align:center;
+  background-image:url("img/img0.jpg");
+}

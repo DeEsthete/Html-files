@@ -1,0 +1,57 @@
+.legendStyle
+{
+  font-size: 24px;
+  color: red;
+  text-align: center;
+}
+.fieldStyle
+{
+  border: 2px solid red;
+  display: inline-block;
+  text-align: center;
+  padding: 10px;
+}
+.nameLabel
+{
+  color: DarkRed;
+  font-weight: bold;
+}
+.inputName
+{
+  border: 1.5px solid  Green;
+}
+.enterPassword
+{
+  color: DarkRed;
+}
+.passwordPassword
+{
+  color: Blue;
+  font-weight: bold;
+}
+.inputPassword
+{
+  border: 2px dashed Red;
+}
+.buttonSend
+{
+  background: cyan;
+  height: 40px;
+  width: auto;
+  border: 2px solid lightBlue;
+  border-radius: 10px 20px 30px 50px;
+  color: White;
+}
+.buttonReset
+{
+  background: cyan;
+  height: 40px;
+  width: auto;
+  border: 2px solid lightBlue;
+  border-radius: 10px 20px 50px 30px;
+  color: Purple;
+}
+body
+{
+  text-align: center;
+}

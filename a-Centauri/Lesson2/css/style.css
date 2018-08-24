@@ -1,0 +1,34 @@
+.movie
+{
+  /*          dashed*/
+  /*          solid*/
+  width: 200px;
+  height: 200px;
+  background: black;
+  padding: 10px;
+  text-align: center;
+  color: white;
+  border: 10px double;
+
+  /* border-radius: 1px;
+  border-top-left-radius: 30px;
+  border-bottom-right-radius: 50px; */
+
+  border-radius: 10px 20px 30px 40px;
+  display: inline-block;
+  margin-right: 20px;
+}
+.movie video
+{
+  border: 5px double black;
+}
+
+.super
+{
+  text-align: center;
+}
+
+.main
+{
+  background: green;
+}

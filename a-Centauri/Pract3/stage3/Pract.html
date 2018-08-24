@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="css/style.css">
+    <link href="https://fonts.googleapis.com/css?family=Lora" rel="stylesheet">
+    <title></title>
+  </head>
+  <body>
+    <form class="formStyle" action="index.html" method="post">
+      <fieldset class="fieldStyle">
+
+        <legend class="legendStyle">Анкета</legend>
+
+        <label for="Name">Имя:</label><br>
+        <input class="inputTextStyle" type="text" name="Name"><br>
+
+        <label for="Fam">Фамилия:</label><br>
+        <input class="inputTextStyle" type="text" name="Fam"><br>
+
+        <label for="Login">Логин:</label><br>
+        <input class="inputTextStyle" type="text" name="Login"><br>
+
+        <label for="Password">Пароль:</label><br>
+        <input class="inputTextStyle" type="text" name="Password"><br>
+
+        <label for="RadioButton">Пол:</label>
+        <input type="radio" name="RadioButton">Мужской
+        <input type="radio" name="RadioButton">Женский<br><br>
+
+        <select class="inputTextStyle" name="BirthYear">
+          <option value="">Год Рождения</option>
+          <option value="">2001</option>
+          <option value="">2000</option>
+          <option value="">1999</option>
+          <option value="">1998</option>
+        </select><br><br>
+        <textarea class="inputTextStyle" name="textArea" rows="8" cols="30">Хобби</textarea>
+        <br><br>
+        <input class="inputTextStyle" type="file" name="" value="">
+        <br>
+      </fieldset>
+    </form>
+    <br>
+    <button class="inputTextStyle" type="button" name="button">Отправить</button>
+  </body>
+</html>

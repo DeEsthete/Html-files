@@ -1,0 +1,29 @@
+.square1
+{
+  border: 3px dotted gray;
+  height: 500px;
+  width: 1000px;
+  margin-top: 100px;
+}
+.notSquare1
+{
+  border: 2px dashed green;
+  height: 400px;
+  width: 400px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 30px;
+  border-bottom-left-radius: 30px;
+  border-bottom-right-radius: 10px;
+  margin: 30px;
+}
+.notSquare2
+{
+  border: 1px dotted green;
+  height: 400px;
+  width: 400px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 30px;
+  border-bottom-left-radius: 40px;
+  border-bottom-right-radius: 40px;
+  margin: 30px;
+}

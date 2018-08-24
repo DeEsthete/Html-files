@@ -1,0 +1,17 @@
+.legendStyle
+{
+  color: #11A0F5;
+}
+.fieldStyle
+{
+  display: inline-block;
+  text-align: left;
+  border-color: #11A0F5;
+  font-family: 'Lora', serif;
+  background-color: #F67F21
+}
+.inputTextStyle
+{
+  border: 2px solid;
+  border-color: #11A0F5;
+}

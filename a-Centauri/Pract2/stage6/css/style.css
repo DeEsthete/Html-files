@@ -1,0 +1,54 @@
+.topPram
+{
+  height: 200px;
+  background: #769FDE;
+  padding: 20px;
+}
+.panel
+{
+  font-size: 26px;
+  display: inline-block;
+  margin-right: 80px;
+}
+.glavnaya
+{
+  color: Red;
+}
+.second
+{
+  color: White;
+  text-decoration: none;
+}
+
+.mainPanel
+{
+  text-align: center;
+}
+.panel2
+{
+  font-size: 16px;
+  display: inline-block;
+  border: 2px solid black;
+  /* height: 240px; */
+  width: 540px;
+  margin-top: 30px;
+  border-radius: 10px 10px 10px 10px;
+  padding: 20px;
+}
+.greenSqr
+{
+  background: #008001;
+  color: white;
+}
+.redSqr
+{
+  background: #A52B2A;
+  color: white;
+  font-style: italic;
+}
+.blueSqr
+{
+  background: #79FFD3;
+  color: Red;
+  text-decoration: underline;
+}
