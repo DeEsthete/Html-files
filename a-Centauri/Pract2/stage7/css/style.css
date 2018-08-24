@@ -1,0 +1,19 @@
+.mainField
+{
+  background: #66ffcc;
+  height: auto;
+  width: auto;
+  text-align: center;
+  padding: 20px;
+}
+.videoField
+{
+  background: red;
+  border: 20px dashed gray;
+  height: auto;
+  width: auto;
+  padding: 10px;
+  height: 220px;
+  width: 440px;
+  border-radius: 2px 10px 20px 30px
+}
