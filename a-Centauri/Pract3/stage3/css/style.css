@@ -1,6 +1,14 @@
+body
+{
+  text-align: center;
+  font-size: 25px;
+  background: #11A0F5;
+  /* background: BLACK; */
+}
 .legendStyle
 {
-  color: #11A0F5;
+  /* color: #11A0F5; */
+  font-family: 'Metamorphous', cursive;
 }
 .fieldStyle
 {
@@ -8,10 +16,21 @@
   text-align: left;
   border-color: #11A0F5;
   font-family: 'Lora', serif;
-  background-color: #F67F21
+  background-color: #F67F21;
+  padding: 60px;
+  text-align: center;
 }
 .inputTextStyle
 {
   border: 2px solid;
   border-color: #11A0F5;
+}
+.labelStyle
+{
+  font-family: 'Metamorphous', cursive;
+}
+Button
+{
+  border-radius: 10px 20px 10px 10px;
+  font-family: 'Metamorphous', cursive;
 }

@@ -1,0 +1,66 @@
+.head
+{
+  /* width: 200px; */
+  /* height: 50px; */
+  background-color: LightGray;
+  background-image: url("img/imgIcon.png");
+  background-repeat: no-repeat;
+  background-position: 10px 10px;
+  margin-top:20px;
+  /* padding-left: 60px; */
+  padding: 20px 60px;
+  border: 1px dashed black;
+  color: white;
+  font-weight: 700px;
+  text-transform: uppercase;
+}
+.head1
+{
+  /* width: 200px; */
+  /* height: 50px; */
+  background-color: Cyan;
+  background-image: url("img/imgIcon.png");
+  background-repeat: no-repeat;
+  background-position: 10px center;
+  margin-top:20px;
+  /* padding-left: 60px; */
+  padding: 20px 60px;
+  border: 1px dashed black;
+  color: white;
+  font-weight: 700px;
+  text-transform: uppercase;
+}
+.head2
+{
+  /* width: 200px; */
+  /* height: 50px; */
+  background-color: LightGreen;
+  background-image: url("img/imgIcon.png");
+  background-repeat: no-repeat;
+  background-position: 10px -95px;
+  margin-top:20px;
+  /* padding-left: 60px; */
+  padding: 20px 60px;
+  border: 1px dashed black;
+  color: white;
+  font-weight: 700px;
+  text-transform: uppercase;
+}
+.head span
+{
+  padding-left: 20px;
+  color: #666666;
+  font-weight: 400;
+}
+.head1 span
+{
+  padding-left: 20px;
+  color: DarkBlue;
+  font-weight: 400;
+}
+.head2 span
+{
+  padding-left: 20px;imgIcon
+  color: DarkGreen;
+  font-weight: 400;
+}

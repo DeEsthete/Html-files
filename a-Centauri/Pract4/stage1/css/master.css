@@ -1,0 +1,87 @@
+.mainDiv
+{
+  border-left: 1px solid lightgray;
+  border-right: 1px solid lightgray;
+  border-bottom: 1px solid lightgray;
+  width: 300px;
+}
+.panelStyle
+{
+  display: inline-block;
+}
+.headImgStyle
+{
+  width: 300px;
+}
+.fieldsetStyle
+{
+  border: white;
+  width: 270px;
+}
+.headLabelStyle
+{
+  color: #168de2;
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+}
+.cloudImgStyle
+{
+  margin-left: 150px;
+  width: 20px;
+}
+.calendarImgStyle
+{
+  margin-left: 20px;
+  width: 20px;
+}
+.mailNameStyle
+{
+  height: 20px;
+  width: 140px;
+  margin-top: 10px;
+}
+.selectMailStyle
+{
+  height: 26px;
+  width: 126px;
+  float: right;
+  margin-top: 10px;
+}
+.passwordBoxStyle
+{
+  margin-top: 10px;
+  height: 20px;
+  width: 140px;
+}
+.logInButtonStyle
+{
+  height: 27px;
+  width: 120px;
+  border: 1px solid #168de2;
+  background-color: #168de2;
+  border-radius: 2px 2px 2px 2px;
+  color: white;
+}
+.isSaveStyle
+{
+  margin-left: 40px;
+}
+.divStyle
+{
+  margin-top: 5px;
+}
+.addNewMailDivStyle
+{
+  width: 270px;
+  text-align: center;
+  padding: 15px;
+  border-left: 1px solid lightgray;
+  border-right: 1px solid lightgray;
+  border-bottom: 1px solid lightgray;
+}
+.addNewMailAStyle
+{
+  color: #168de2;
+  text-decoration: none;
+  font-family: 'Roboto', sans-serif;
+}
