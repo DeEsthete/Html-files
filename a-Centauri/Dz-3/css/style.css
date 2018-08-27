@@ -1,0 +1,66 @@
+body
+{
+  background: Green;
+  text-transform: uppercase;
+}
+.cardStyle
+{
+  background: #66ffcc;
+  height: 216px;
+  width: 344px;
+  border-radius: 10px 10px 10px 10px;
+  color: white;
+}
+.creditCardText
+{
+  padding-top: 20px;
+  padding-left: 30px;
+  font-weight: bold;
+}
+.cardNumberText
+{
+  padding-top: 10px;
+  padding-left: 30px;
+  font-size: 13px;
+}
+.cardNumberNumbers
+{
+  padding-top:10px;
+  text-align: center;
+}
+.numberStyle
+{
+  width: 50px;
+  padding: 7px;
+  text-align: center;
+  color: gray;
+}
+.monthText
+{
+  width: 70px;
+  padding-top: 15px;
+  padding-left: 70px;
+  font-size: 13px;
+}
+.yearText
+{
+  padding-top: 15px;
+  padding-left: 20px;
+  font-size: 13px;
+}
+.validText
+{
+  padding-top: 10px;
+  padding-left: 30px;
+  font-size: 11px;
+}
+.thruText
+{
+  padding-left: 30px;
+  font-size: 11px;
+}
+.dateText
+{
+  width: 25px;
+  /* margin-top: 10px; */
+}
