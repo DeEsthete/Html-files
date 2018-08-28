@@ -1,14 +1,55 @@
+body
+{
+  background-image: url("img/background.jpg");
+}
 .rtxImage
 {
   width: 400px;
+  border-radius: 5px 30px 5px 5px;
 }
 .buyNow
 {
   height: 50px;
   width: 400px;
   border: 1px solid black;
-  background-color: Green;
+  margin-top: 20px;
+  /* background-color: Green; */
   color: White;
+  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#0bad00+10,002400+98 */
+background: #0bad00; /* Old browsers */
+background: -moz-radial-gradient(center, ellipse cover, #0bad00 10%, #002400 98%); /* FF3.6-15 */
+background: -webkit-radial-gradient(center, ellipse cover, #0bad00 10%,#002400 98%); /* Chrome10-25,Safari5.1-6 */
+background: radial-gradient(ellipse at center, #0bad00 10%,#002400 98%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0bad00', endColorstr='#002400',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+}
+.storeItem
+{
+  display: inline-block;
+  margin-top: 5px;
+  margin-left: 5px;
+  border: 2px solid green;
+  width: 400px;
+  border-radius: 5px 30px 5px 5px;
+  padding: 5px;
+  box-shadow: 0 0 30px rgba(0,0,0,0.5);
+}
+.itemName
+{
+  border-bottom: 1px dashed green;
+  border-top: 1px dashed green;
+  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#38c161+0,ffffff+62,ffffff+62 */
+background: #38c161; /* Old browsers */
+background: -moz-linear-gradient(left, #38c161 0%, #ffffff 62%, #ffffff 62%); /* FF3.6-15 */
+background: -webkit-linear-gradient(left, #38c161 0%,#ffffff 62%,#ffffff 62%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to right, #38c161 0%,#ffffff 62%,#ffffff 62%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#38c161', endColorstr='#ffffff',GradientType=1 ); /* IE6-9 */
+}
+.phoneText
+{
+  border: 1px dashed green;
+  margin-top: 5px;
+  margin-bottom: 30px;
+  /* background: green; */
 }
 .block{
 padding: 40px 10px;
