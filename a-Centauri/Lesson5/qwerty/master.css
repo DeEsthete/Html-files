@@ -1,0 +1,28 @@
+.rtxImage
+{
+  width: 400px;
+}
+.buyNow
+{
+  height: 50px;
+  width: 400px;
+  border: 1px solid black;
+  background-color: Green;
+  color: White;
+}
+.block{
+padding: 40px 10px;
+color: #FFF;
+font-family: arial, sans-serif;
+
+
+background: #fcf405;
+background: -moz-linear-gradient(top, #fcf405 30%, #008591 100%);
+background: -webkit-linear-gradient(top, #fcf405 30%,#008591 100%);
+background: linear-gradient(to bottom, #fcf405 30%,#008591 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fcf405', endColorstr='#008591',GradientType=0 );
+}
+
+ul{
+    list-style-image: url(img/arrow.png);
+}

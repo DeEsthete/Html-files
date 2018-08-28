@@ -1,0 +1,11 @@
+.block
+{
+  padding: 40px 10px;
+  color: #FFF;
+  font-family: arial, sans-serif;
+background: #a90329;
+background: -moz-linear-gradient(top, #a90329 0%, #9e0002 49%, #ff0004 100%);
+background: -webkit-linear-gradient(top, #a90329 0%,#9e0002 49%,#ff0004 100%);
+background: linear-gradient(to bottom, #a90329 0%,#9e0002 49%,#ff0004 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a90329', endColorstr='#ff0004',GradientType=0 );
+}

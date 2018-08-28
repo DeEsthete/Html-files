@@ -1,0 +1,14 @@
+.block
+{
+  width: 100px;
+  height: 50px;
+  background: Violet;
+  color: #FFF;
+  padding: 100px;
+  box-shadow: 0 0 10px red;
+
+}
+ul
+{
+  list-style-image: url("../css/img/arrow.png");
+}

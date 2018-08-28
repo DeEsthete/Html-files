@@ -1,0 +1,46 @@
+.mainField
+{
+  background-color: #AA6838;
+  padding-bottom: 10px;
+  padding-left: 5px;
+  width: 700px;
+  padding-top: 20px;
+}
+.mainH
+{
+  color: White;
+  font-weight: bold;
+}
+.X
+{
+  color: Red;
+  font-weight: bold;
+}
+.img1
+{
+  width: 250px;
+  margin-top: 20px;
+  height: 300px;
+}
+.text
+{
+  color: White;
+}
+.img2
+{
+  width: 50px;
+  margin-top: 20px;
+}
+.numb
+{
+  color: white;
+}
+.buttonBuy
+{
+  border: 1px solid DarkGreen;
+  background-color: #04d504;
+  color: white;
+  height: 35px;
+  border-radius: 5px 5px 5px 5px;
+  margin-top: 15px;
+}

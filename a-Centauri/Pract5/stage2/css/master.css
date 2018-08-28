@@ -1,0 +1,38 @@
+.mainField
+{
+  background-color: black;
+  width: 400px;
+  padding-left: 15px;
+  padding-bottom: 15px;
+}
+.mainH
+{
+  color: White;
+  font-weight: bold;
+}
+.londonImg
+{
+  border: 2px solid White;
+  border-radius: 3px 3px 3px 3px;
+}
+.text
+{
+  margin-top: 10px;
+  color: white;
+}
+.telephone
+{
+  border: 1px solid Red;
+  height: 20px;
+}
+.radio
+{
+  color: white;
+}
+.buttonCons
+{
+  border: 1px solid White;
+  color: white;
+  background: DarkRed;
+  height: 30px;
+}
