@@ -48,6 +48,10 @@ body
   padding-left: 20px;
   font-size: 13px;
 }
+.validThruText
+{
+  display: inline-block;
+}
 .validText
 {
   padding-top: 10px;
