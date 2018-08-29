@@ -50,22 +50,27 @@ body
 }
 .validThruText
 {
-  /* display: inline-block; */
-  vertical-align: middle;
+  width: 80px;
+}
+.string5
+{
+  display: inline-block;
 }
 .validText
 {
   padding-top: 10px;
   padding-left: 30px;
   font-size: 11px;
+  display: inline-block;
 }
 .thruText
 {
   padding-left: 30px;
   font-size: 11px;
+  width: 40px;
 }
 .dateText
 {
   width: 25px;
-  /* margin-top: 10px; */
+  display: inline-block;
 }
