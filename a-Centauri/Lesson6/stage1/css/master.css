@@ -1,0 +1,32 @@
+.btn
+{
+  width: 200px;
+  height: 100px;
+  border: 1px dashed LightBlue;
+  background: Violet;
+  color: White;
+  font-size: 20px;
+  transition: 0.3s;
+}
+
+.btn:hover
+{
+  width: 200px;
+  height: 100px;
+  border: 1px dashed Violet;
+  background: LightBlue;
+  color: White;
+  font-size: 40px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+/* WARNING: STAGE2 */
+ul li
+{
+  color: violet;
+}
+ul li:nth-child(2n)
+{
+  color:Pink;
+}

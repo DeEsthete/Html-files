@@ -1,0 +1,36 @@
+.but
+{
+  background: #F5C573;
+  width: 100px;
+  height: 30px;
+  border-bottom: 1px solid #5B2B00;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  margin-top: 0px;
+  text-align: left;
+}
+.bit::before
+{
+  font-size: 15px;
+  font-weight: bold;
+  content:'฿ ';
+}
+.dol:before
+{
+  font-size: 15px;
+  font-weight: bold;
+  content: '$ ';
+}
+.evr:before
+{
+  font-size: 15px;
+  font-weight: bold;
+  content: '€ ';
+}
+.rub::before
+{
+  font-size: 15px;
+  font-weight: bold;
+  content: '₽ ';
+}

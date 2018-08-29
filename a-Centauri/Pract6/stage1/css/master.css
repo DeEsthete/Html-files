@@ -1,0 +1,19 @@
+.mainH
+{
+  color: #E91E63;
+  margin-left: 20px;
+  font-weight: bold;
+}
+
+.ulMain
+{
+  list-style-type: square;
+  margin-left: 25px;
+  color: #4CAF50;
+  font-size: 20px;
+}
+
+ul li:nth-child(1)
+{
+  color: #E91E63;
+}

@@ -1,0 +1,9 @@
+button::before
+{
+  content: '฿';
+}
+button:after
+{
+  content: '$'
+}
+/* € */

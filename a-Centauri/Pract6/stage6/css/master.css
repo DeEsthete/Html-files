@@ -1,0 +1,61 @@
+.block
+{
+  /* height: 50px; */
+  background: black;
+  padding: 30px;
+  color: white;
+  text-align: center;
+  transition: 0.3s;
+  border-bottom: 1px solid black;
+}
+.wine
+{
+  background: #F78154;
+}
+.coffee
+{
+  background: #C87694;
+}
+.iceCream
+{
+  background: #3E989B;
+}
+.pizza
+{
+  background: #6DB465;
+}
+.block:hover
+{
+  transition: 0.3s;
+  box-shadow: inset 1px 2px 20px 0px black;
+}
+.startText
+{
+}
+.ulStar
+{
+  margin-left: 100px;
+  height: 50px;
+}
+.grayStar
+{
+  opacity: 0.5;
+}
+.arrow
+{
+  margin-left: 10px;
+  font-size: 39px;
+}
+.votes
+{
+  margin-left: 130px;
+}
+.AllText
+{
+  display: inline-block;
+  font-size: 30px;
+}
+li
+{
+  display: inline-block;
+}
