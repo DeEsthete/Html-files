@@ -2,6 +2,7 @@ body
 {
   background: Green;
   text-transform: uppercase;
+  font-family: 'Titillium Web', sans-serif;
 }
 .cardStyle
 {
@@ -22,6 +23,7 @@ body
   padding-top: 10px;
   padding-left: 30px;
   font-size: 13px;
+  opacity: 0.8;
 }
 .cardNumberNumbers
 {
@@ -41,27 +43,34 @@ body
   padding-top: 15px;
   padding-left: 70px;
   font-size: 13px;
+  opacity: 0.8;
 }
 .yearText
 {
   padding-top: 15px;
-  padding-left: 20px;
+  padding-left: 13px;
   font-size: 13px;
+  opacity: 0.8;
 }
 .validThruText
 {
-  width: 80px;
+  width: 65px;
+  opacity: 0.8;
 }
 .string5
 {
   display: inline-block;
+}
+.string5child
+{
+  display: inline-block;
+  vertical-align: middle;
 }
 .validText
 {
   padding-top: 10px;
   padding-left: 30px;
   font-size: 11px;
-  display: inline-block;
 }
 .thruText
 {
@@ -71,6 +80,19 @@ body
 }
 .dateText
 {
-  width: 25px;
-  display: inline-block;
+  width: 40px;
+  margin-top: 5px;
+}
+.slesh
+{
+  font-size: 20px;
+  margin-top: 8px;
+  margin-left: 7px;
+}
+.visaLogo
+{
+  width: 70px;
+  margin-left: 80px;
+  margin-top: 10px;
+  vertical-align: top;
 }

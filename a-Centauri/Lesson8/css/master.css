@@ -1,0 +1,43 @@
+.leftMenu
+{
+  width: 334px;
+  height: 1080px;
+  background-color: #333333;
+  color: #B675FF;
+  font-family: "Segoe UI";
+}
+.mainLogo
+{
+  /*margin-left: 30px;*/
+  text-align: center;
+  padding-top: 10px;
+}
+.userLeftInfo
+{
+  border: 2px solid #7E7C7C;
+  text-align: center;
+}
+.userAvaDiv
+{
+  text-align: center;
+}
+.userAva
+{
+  width: 239px;
+  height: 165px;
+  border: 1px solid #333333;
+  border-radius: 80px 80px 80px 60px;
+}
+.userLeftName
+{
+  color: #B675FF;
+  font-size: 44px;
+}
+.leftMenuUl a
+{
+  font-size: 30px;
+  text-decoration: none;
+}
+.leftMenuUl li{
+  list-style-type: none;
+}
